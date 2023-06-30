@@ -1,0 +1,60 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+}
+
+#eyes1 {
+  bottom: 250px;
+  right: 305px;
+  width: 200px;
+  border-radius: 50%;
+  position: relative;
+}
+
+#mouth1 {
+  bottom: 170px;
+  right: -68px;
+  width: 150px;
+  position: relative;
+}
+
+#nose3 {
+  bottom: 250px;
+  right: 270px;
+  width: 90px;
+
+  position: relative;
+}
+
+#ears1 {
+  bottom: 550px;
+  width: 400px;
+  position: relative;
+}
+
+#hair4 {
+  bottom: 1060px;
+  width: 400px;
+  right: -1px;
+  position: relative;
+}
+
+#crown {
+  bottom: 900px;
+  left: 80px;
+  width: 250px;
+  z-index: 1;
+  position: relative;
+}
+
+#sunglasses {
+  bottom: 970px;
+  width: 150px;
+  left: 130px;
+  position: relative;
+}
+
+/* For the sunglasses, I used it as a bowtie because that's 
+what i thought it was just looking at it initially lol */
